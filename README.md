@@ -7,8 +7,10 @@
 - ⚡ Fun fact: ...
 
 
-here are some learning resource below:
+here are some learning resources below:
+https://github.com/getify/You-Dont-Know-JS/blob/1ed-zh-CN/up%20%26%20going/ch1.md
 https://github.com/weiqinl/You-Dont-Know-JS-CN/blob/master/up%20%26%20going/ch1.md
+
 https://github.com/getify/You-Dont-Know-JS/blob/2ed-zh-CN/scope-closures/ch1.md
 
 <!---
